@@ -1,7 +1,4 @@
 return {
-  { "natebosch/vim-lsc" },
-  { "hashivim/vim-terraform" },
-  { "puremourning/vimspector" },
   {
     "nvim-treesitter/nvim-treesitter-context",
     config = function()
