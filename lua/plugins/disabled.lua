@@ -5,4 +5,6 @@ return {
   -- { "echasnovski/mini.indentscope", enabled = false },
   { "echasnovski/mini.pairs", enabled = false },
   -- { "echasnovski/mini.surround", enabled = false },
+  { "ggandor/leap.nvim", enabled = false },
+  { "ggandor/flit.nvim", enabled = false },
 }
