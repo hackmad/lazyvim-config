@@ -7,7 +7,6 @@ return {
         "cpp",
         "dart",
         "go",
-        "help",
         "html",
         "javascript",
         "json",
