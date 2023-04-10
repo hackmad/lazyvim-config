@@ -7,3 +7,7 @@ local api = vim.api
 api.nvim_set_hl(0, "NeoTreeDotfile", { fg = "#808080" })
 api.nvim_set_hl(0, "NeoTreeTitleBar", { fg = "#c0c0c0", bg = "#404040" })
 api.nvim_set_hl(0, "NeoTreeGitUntracked", { fg = "#a0f0a0" })
+
+-- Highlight for line numbers
+api.nvim_set_hl(0, "LineNr", { fg = "#a0ffa0" })
+api.nvim_set_hl(0, "CursorLineNr", { fg = "#ff8080" })
